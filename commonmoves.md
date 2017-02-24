@@ -9,7 +9,7 @@ For the genre of sports, specifically fighting/entertainment, I picked podcasts 
 
 ###Common Moves
 ####Organization
-The storage of all the podcasts is set-up as a typical Youtube channel. There are navigation links on Steve and Larson's Youtube Page [Joe Rogan's Youtube Page](https://www.youtube.com/user/PowerfulJRE). to videos ranging from:  
+The storage of all Rogan's podcasts is set-up as a typical Youtube channel. There are navigation links on his Youtube Page [Joe Rogan's Youtube Page](https://www.youtube.com/user/PowerfulJRE). ranging from:  
 -home  
 -the newest videos at the top to the oldest at the bottom  
 -playlists of the various projects Rogan has  
@@ -18,7 +18,7 @@ The storage of all the podcasts is set-up as a typical Youtube channel. There ar
 -about  
 
 ####Host  
--Joe Rogan hosts every episode with Brendan Schaub and Eddie Bravo are guests on each epiosde
+-Joe Rogan hosts every episode with Brendan Schaub and Eddie Bravo are guests on each episode
 (though the Joey Diaz is an additional guest on episode 893)
 
 ####Intro slide  
@@ -27,11 +27,11 @@ The storage of all the podcasts is set-up as a typical Youtube channel. There ar
 -Video is then added as Rogan names and welcomes his guests by name.
 
 ####Common under theme, getting off topic
--Both podcast see the group talk in a very conversational tone  
+-Both podcasts see the group talk in a very conversational tone  
 
 -Both see the guests talk about fighting in some regard from the very beginning. Episode 890 has the viewer hearing how many fighters are bland now-a-days before later showing actaul Boxing/UFC fights and installment 893 desrcibes the shocking Rhonda Rousey loss, showing the fight to viewers.  
 
--Yet both podcasts show a tendency to get off topic, as a friends may do. Rogan talks about  and drug use at the end of 893.
+-Yet both podcasts show a tendency to get off topic, as a friends may do, such as Rogan talking about fighters' drug use at the end of 893.
 
 ##Steve and Larson's Going In Raw
 
