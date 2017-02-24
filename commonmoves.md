@@ -33,6 +33,11 @@ The storage of all Rogan's podcasts is set-up as a typical Youtube channel. Ther
 
 -Yet both podcasts show a tendency to get off topic, as a friends may do, such as Rogan talking about fighters' drug use at the end of 893.
 
+####Wrap-Up
+-Joe ends each podcast by stating his guests by name and saying, "thank you."
+
+-He then states when his show will be back and who his next guest(s) will be.
+
 ##Steve and Larson's Going In Raw
 
 ###Episodes Watched
