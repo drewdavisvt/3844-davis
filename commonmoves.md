@@ -3,19 +3,35 @@ For the genre of sports, specifically fighting/entertainment, I picked podcasts 
 
 ##Joe Rogan Experience (PowerfulJRE)
 
--Joe Rogan Experience #890 - Fight Breakdown
--Joe Rogan Experience #893 - Fight Recap
+###Episodes Watched  
+-Joe Rogan Experience #890 - Fight Breakdown  
+-Joe Rogan Experience #893 - Fight Recap  
 
-
-###Organization
-The storage of all the podcasts is set-up as a typical Youtube channel. There are navigation links on Steve and Larson's Youtube Page [Joe Rogan's Youtube Page](https://www.youtube.com/user/PowerfulJRE). to videos ranging from:
+###Common Moves
+####Organization
+The storage of all the podcasts is set-up as a typical Youtube channel. There are navigation links on Steve and Larson's Youtube Page [Joe Rogan's Youtube Page](https://www.youtube.com/user/PowerfulJRE). to videos ranging from:  
 -home  
 -the newest videos at the top to the oldest at the bottom  
 -playlists of the various projects Rogan has  
--channels he likes
--discussion
--about
+-channels he likes  
+-discussion  
+-about  
 
+####Host  
+-Joe Rogan hosts every episode with Brendan Schaub and Eddie Bravo are guests on each epiosde
+(though the Joey Diaz is an additional guest on episode 893)
+
+####Intro slide  
+-Both podcast had the Joe Rogan Podcast logo of a painted face of Joe Rogan spinning as you hear the host speaking before video is up to open the podcast.  
+
+-Video is then added as Rogan names and welcomes his guests by name.
+
+####Common under theme, getting off topic
+-Both podcast see the group talk in a very conversational tone  
+
+-Both see the guests talk about fighting in some regard from the very beginning. Episode 890 has the viewer hearing how many fighters are bland now-a-days before later showing actaul Boxing/UFC fights and installment 893 desrcibes the shocking Rhonda Rousey loss, showing the fight to viewers.  
+
+-Yet both podcasts show a tendency to get off topic, as a friends may do. Rogan talks about  and drug use at the end of 893.
 
 ##Steve and Larson's Going In Raw
 
@@ -44,12 +60,14 @@ Each video of Going In Raw starts the same way:
 -The audio clip reads:
 >"Be apart of the best pro wrestling podcast today by supporting the Going In Raw patron. You can enjoy the live taping of the show, exclusive merchandise and patron only episode side and so much more. Support Going In Raw today; click the link in the description."  
 
--From one sound byte to another, the viewer now hears and sees multiple WWE Superstars stating one is watching "Going in Raw" and or "Smackdown Live (another show owned by WWE)," as a joke. After the audio and video fades, now one sees a Steve and Larson in a live video podcast.
+-From one sound byte to another, the viewer now hears and sees multiple WWE Superstars stating one is watching "Going in Raw" and or "Smackdown Live (another show owned by WWE)," as a joke. After the audio and video fades, now one sees a Steve and Larson in a live video podcast.  
+
+-Steve then lists all the places their podcasts are available such as Soundcloud, Facebook, etc and listing benefits of being a patron for then, before moving into the new content of the show.
 
 ####Flow
 -Content of the show is organized as the two men recap and offer insight of the past show, whether it is Raw for episode 170 or Smackdown for episode 171.  
 
--They go match-by-match, or promo, in chronological order of what happened first to last.  
+-They go match-by-match, or promo, in chronological order of what happened first to last.  For episode 170 this is the debut of Emmalina and for installment 171 this is the entrance of new champion Bray Wyatt.
 
 -As Steve and Larson rehash, they also offer their insight and relay similar past instances in WWE they see that are related.
 
