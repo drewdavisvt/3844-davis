@@ -25,7 +25,7 @@ The storage of all the podcasts is set-up as a typical Youtube channel. There ar
 
 ###Common Movies
 ####Organization
-The storage of all the podcasts is set-up just as the Joe Rogan Experience. There are navigation links on Steve and Larson's Youtube Page [Steve and Larson's Youtube Page](https://www.youtube.com/user/SteveAndLarson). that include: 
+The storage of all the podcasts is set-up just as the Joe Rogan Experience. There are navigation links on Steve and Larson's Youtube Page [Steve and Larson's Youtube Page](https://www.youtube.com/user/SteveAndLarson). that include:
 -home  
 -the newest videos at the top to the oldest at the bottom  
 -playlists of the various projects the duo has  
