@@ -20,6 +20,7 @@ The storage of all the podcasts is set-up as a typical Youtube channel.
 ####What's Next For Owens and Jericho? WWE Raw Review & Results 2/13/17 (Going in Raw Ep. 170)
 ####The Wyatt Era Begins. WWE Smackdown Live Review & Results (Going in Raw Ep. 171)
 
+###Elemenet Analyzed
 ####Organization
 The storage of all the podcasts is set-up just as the Joe Rogan Experience. There are navigation links on Steve and Larson's Youtube Page [Steve and Larson's Youtube Page](https://www.youtube.com/user/SteveAndLarson). to videos ranging from home, the newest videos at the top to the oldest at the bottom, playlists of the various projects the duo has, channels they like, among others.
 
