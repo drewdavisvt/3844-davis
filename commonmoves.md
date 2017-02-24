@@ -19,7 +19,7 @@ The storage of all the podcasts is set-up as a typical Youtube channel. There ar
 ##Steve and Larson's Going In Raw
 
 ###Episodes Watched
--What's Next For Owens and Jericho? WWE Raw Review & Results 2/13/17 (Going in Raw Ep. 170)
+-What's Next For Owens and Jericho? WWE Raw Review & Results 2/13/17 (Going in Raw Ep. 170)  
 -The Wyatt Era Begins. WWE Smackdown Live Review & Results (Going in Raw Ep. 171)
 
 ###Common Movies
