@@ -41,7 +41,8 @@ Each video of Going In Raw starts the same way:
 
 -The viewer will see both Steve in Larson in a still picture before a promo sound byte of host Steve starts.   
 
--The audio clip reads: >"Be apart of the best pro wrestling podcast today by supporting the Going In Raw patron. You can enjoy the live taping of the show, exclusive merchandise and patron only episode side and so much more. Support Going In Raw today; click the link in the description."  
+-The audio clip reads:
+>"Be apart of the best pro wrestling podcast today by supporting the Going In Raw patron. You can enjoy the live taping of the show, exclusive merchandise and patron only episode side and so much more. Support Going In Raw today; click the link in the description."  
 
 -From one sound byte to another, the viewer now hears and sees multiple WWE Superstars stating one is watching "Going in Raw" and or "Smackdown Live (another show owned by WWE)," as a joke. After the audio and video fades, now one sees a Steve and Larson in a live video podcast.
 
