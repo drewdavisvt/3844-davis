@@ -29,8 +29,8 @@ The storage of all the podcasts is set-up just as the Joe Rogan Experience. Ther
 -home  
 -the newest videos at the top to the oldest at the bottom  
 -playlists of the various projects the duo has  
--channels they like  
--discussion
+-channels they like   
+-discussion  
 -about
 
 ####Hosts
